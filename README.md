@@ -5,7 +5,7 @@
 This repository is meant to lower the barrier of entry for building solutions to Indigenous language problems.
 
 # Funding?
-This project is supported by Future Design School through the Audrey Wearn Language Prize. We are not currently accepting donations.
+This project is supported by Future Design School through the Audrey Wearn Language Prize.
 
 # How can I contribute?
 Feel free to open an issue or email me directly. All help is welcome.
